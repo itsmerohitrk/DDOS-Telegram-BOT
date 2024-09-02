@@ -4,14 +4,14 @@ import socket
 import sys
 
 # Telegram API token
-TOKEN = "YOUR TOKEN HERE"
+TOKEN = "7392192527"
 
 
 # Admin chat ID
-ADMIN_CHAT_ID = YOUR_ID_HERE
+ADMIN_CHAT_ID = @itsmerohitrk
 
 # Initialize bot
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(AAFmZElUwhDLMNx4xxEB6hWYNasHlh3nkNk)
 
 # Function to check if input is a valid IP address
 def is_valid_ip(ip):
